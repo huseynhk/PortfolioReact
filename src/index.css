@@ -7,7 +7,7 @@
     outline: 0;
     border: 0;
     text-decoration: none;
-    list-style: 0;
+    list-style: none;
 }
 
 :root {
